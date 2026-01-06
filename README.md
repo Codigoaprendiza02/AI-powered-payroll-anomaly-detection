@@ -108,7 +108,7 @@ payroll_data.csv
 ---
 
 ## Project Structure
-payroll-anomaly-detection/
+payroll-anomaly-detection
 │
 ├── anomaly_detection_engine.ipynb
 ├── payroll_anomaly_dataset.csv
