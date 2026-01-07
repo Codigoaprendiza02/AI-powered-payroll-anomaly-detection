@@ -9,7 +9,7 @@ The system detects salary manipulation and fake overtime using an unsupervised m
 ## 1. System Architecture
 
 ### High-Level Architecture Diagram
-
+```
                    ┌────────────────────────┐
                    │   Payroll Data Sources │
                    │ (Salary, OT, Dept, Time)│
@@ -61,7 +61,7 @@ The system detects salary manipulation and fake overtime using an unsupervised m
  │ - Validate Model                                        │
  │ - Deploy New Version                                    │
  └────────────────────────────────────────────────────────┘
-
+```
 
 ---
 
