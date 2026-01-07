@@ -1,5 +1,5 @@
 ### Pesudocode of the complete system
-
+```
 BEGIN
 
 LOAD latest_model, scaler, encoders
@@ -52,3 +52,4 @@ TRACK drift metrics
 TRIGGER alerts if thresholds exceeded
 
 END
+```
